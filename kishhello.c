@@ -4,7 +4,8 @@ int main () {
 	printf("Hello World \n");
 	printf("This is modified code\n");
 	printf("This change is for GitHub\n");
-	printf("Enabled github");
-	printf("Re ran the jenkin's image with saved configs");
+	printf("Enabled github\n");
+	printf("Re ran the jenkin's image with saved configs\n");
+	printf("One more re ran jenkins\n");
 	return(0);
 }
