@@ -10,5 +10,6 @@ int main () {
 	printf("New line\n");
 	printf("one more?\n");
 	printf("Test one more time \n");
+	printf("Test e-mail notification");
 	return(0);
 }
