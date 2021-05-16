@@ -12,5 +12,6 @@ int main () {
 	printf("Test one more time \n");
 	printf("Test e-mail notification");
 	printf("Hi All final test?\n");
+	printf("Hi all emails fix\n");
 	return(0);
 }
