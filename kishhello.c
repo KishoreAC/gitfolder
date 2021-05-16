@@ -7,5 +7,6 @@ int main () {
 	printf("Enabled github\n");
 	printf("Re ran the jenkin's image with saved configs\n");
 	printf("One more re ran jenkins\n");
+	printf("New line\n");
 	return(0);
 }
